@@ -1,0 +1,54 @@
+
+
+SPIDER -------------------| publisher services(site, blog)|------user regist fields|
+|spider,analysis tasks    | give site and blog by field   |               frontend | 
+|-------------------------| and "user othercondition"     |------------------------|
+
+spider tasks:
+1.crawl most blog site
+2.rank blog site by link rank
+3.category each site, maybe by tag or about.me
+4.top blog site blogs
+5.some news beyond blogs, like techcrush.com
+
+
+analysis tasks:
+1.site rank
+2.blog category, each category rank
+3.blog file rank
+
+
+recommend tasks:
+1.suggest hot blog in specific fields
+2.filt blog as user need, for example: blog already read
+
+
+
+human inference:
+1.add site, and hot site
+2.maybe change site rank
+3.change site category
+4.chang blog rank
+
+
+
+
+small tips:
+1.start read timetick, tell user to read a blog, and tell him others read speed
+also notify user to remind read the blogs they have ever read too lone, maybe notify by user set condition by themself; 
+this can improve blog rank and site rank.
+
+2.what features they want? give a area to let them know we will consider their demands, there maybe a demands rank, 
+let them thinks this website is theirs
+
+3.website name maybe not called blog..blabla, because blog search or hot blog is too small, people don't need to know it's blog, 
+they just need to know they read what they want.
+
+
+
+website:
+sina, sohu, netease, ifeng, hexun
+
+daqi
+
+xianguo tuisong

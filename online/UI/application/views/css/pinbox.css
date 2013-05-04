@@ -1,0 +1,73 @@
+
+body{
+text-align: center;
+}
+div {
+border:3px;
+border-color: blue;
+#background-color: gray;
+#margin: 0 35px 0 35px;
+}
+.topUserInfoDiv{
+width: 100%;
+height: 30px;
+#background-color: gray;
+text-align: right;
+}
+.topLogo{
+width: 100%;
+height: 100px;
+#background-color: gray;
+}
+td{
+#border:1px solid black;
+#background-color: gray;
+}
+li{
+#list-style:none;
+}
+h1.topLogoText{
+color: gray;
+font-family: italic;
+}
+.hotAreaTable{
+margin-top: 3px;
+width: 100%;
+vertical-align: top;
+text-align: left;
+padding-left: 5px;
+padding-top: 5px;
+}
+.hotSiteTd1, .hotSiteTd2, .hotSiteTd3{
+width: 20%;
+height: 100%;
+#background-color: gray;
+vertical-align: top;
+text-align: left;
+}
+.hotBlogTd{
+width: 20%;
+height: 100%;
+vertical-align: top;
+text-align: left;
+}
+.bigImageTd{
+#width:60%;
+height: 100%;
+vertical-align: top;
+}
+.legencyDiv{
+}
+
+.categoryTitle{
+font-size:150%;
+}
+.listItemFont{
+
+font-size:100%;
+}
+.moreInfoButton{
+font-size:80%;
+color: gray;
+}
+
